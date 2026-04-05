@@ -8,7 +8,12 @@ Repositório dedicado a soluções tecnológicas que otimizam a rotina fiscal e 
 Este projeto apresenta uma solução de ponta a ponta, unindo extração em nuvem, tratamento automatizado e visualização estratégica.
 
 ### 🖼️ Visualização do Dashboard
-![Dashboard Comercial](COLE_O_LINK_GERADO_AQUI)
+![Dashboard Comercial]
+<img width="1295" height="727" alt="image" src="https://github.com/user-attachments/assets/c86f0790-1618-4af1-825e-33f8b4b6674e" />
+<img width="1292" height="780" alt="image" src="https://github.com/user-attachments/assets/2c5175e6-6338-4c58-a8ad-3cbca089e202" />
+<img width="1279" height="774" alt="image" src="https://github.com/user-attachments/assets/89836c29-2fed-4d8b-b891-0c7c326e63f1" />
+<img width="1328" height="779" alt="image" src="https://github.com/user-attachments/assets/47fe1c81-0825-4ce1-a147-0ba27a18ee60" />
+
 
 ### 🛠️ Arquitetura da Solução (Stack Técnica)
 * **Banco de Dados:** Extração via **SQL** (PostgreSQL no Supabase).
@@ -36,3 +41,5 @@ Script em **Python** que aplica instantaneamente as regras de negócio:
 ---
 
 **Desenvolvido por Arhlan Gurgel** *Fiscal & Controladoria | Data Enthusiast*
+
+
