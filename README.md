@@ -40,6 +40,17 @@ Script em **Python** que aplica instantaneamente as regras de negócio:
 
 ---
 
-**Desenvolvido por Arhlan Gurgel** *Fiscal & Controladoria | Data Enthusiast*
+### 📈 Resultados e Impacto no Negócio
+- **Mitigação de Risco Fiscal:** Eliminação de erros operacionais no cálculo de retenções (IRRF e CSRF), garantindo o cumprimento exato da legislação (como a regra de dispensa de R$ 10,00).
+- **Eficiência e ROI:** Redução drástica das horas gastas com conferência manual de notas fiscais de serviços tomados, atuando como um "Double-Check" blindado antes do fechamento contábil.
 
+### ⚙️ Como Executar a Calculadora
+Este script foi desenvolvido utilizando **Programação Orientada a Objetos (POO)** para garantir escalabilidade e fácil manutenção das alíquotas.
 
+1. Clone o repositório em sua máquina local:
+   `git clone https://github.com/Arhlan/portfolio-dados-controladoria.git`
+2. Certifique-se de ter o Python 3 instalado.
+3. No terminal, execute o arquivo principal:
+   `python calculadora_impostos.py`
+
+   **Desenvolvido por Arhlan Gurgel** *Fiscal & Controladoria | Data Enthusiast*
